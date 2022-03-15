@@ -10,3 +10,20 @@ r2 = x/r1
 rnew = (r1 + r2)/2
 print(r1, rnew, r2)
 
+# 2週目
+r1 = rnew
+r2 = x/r1
+rnew = (r1 + r2)/2
+print(r1, rnew, r2)
+
+# 3週目
+r1 = rnew
+r2 = x/r1
+rnew = (r1 + r2)/2
+print(r1, rnew, r2)
+
+# 4週目
+r1 = rnew
+r2 = x/r1
+rnew = (r1 + r2)/2
+print(r1, rnew, r2)
